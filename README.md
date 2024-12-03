@@ -1,7 +1,7 @@
 # Dictionary-App 📖
 A modern, feature-rich dictionary application designed to simplify word searches and enhance vocabulary learning.
 
-**[LIVE DEMO]()**
+**[LIVE DEMO](https://wameez-2986.github.io/Dictionary-App/)**
 
 ## Idea of application 🤔
 
